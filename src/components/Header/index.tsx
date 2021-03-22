@@ -1,4 +1,5 @@
 import { SignInButton } from 'components/SignInButton';
+
 import styles from './styles.module.scss';
 
 export function Header() {
